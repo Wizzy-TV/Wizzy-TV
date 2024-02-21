@@ -14,7 +14,7 @@ Hello, I'm [Wizzy](https://iam-wizzy.web.app/), I'm a Gamer, Modder and also a P
 ### GitHub Trophies:
 ![](https://github-trophies.vercel.app/?username=Wizzy-tv&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-### Modding:
+### Games Modding:
 I mostly publish my mods on [Steam Workshop](https://steamcommunity.com/id/Wizzy_TV/myworkshopfiles/).
 ##### I ONLY PROGRAMMING, I DO NOT MAKING A MODELS!
 <!--
