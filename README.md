@@ -1,5 +1,6 @@
 ### Hello World!
 Hello, I'm Wizzy, I'm a Gamer, Modder and also a Python & Web Developer.
+### GitHub Stats
 
 <!--
 **Wizzy-TV/Wizzy-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
