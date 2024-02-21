@@ -11,8 +11,10 @@ Hello, I'm [Wizzy](https://iam-wizzy.web.app/), I'm a Gamer, Modder and also a P
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wizzy-tv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizzy-tv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### GitHub Trophies
+### GitHub Trophies:
 ![](https://github-trophies.vercel.app/?username=Wizzy-tv&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+### Modding:
 
 <!--
 **Wizzy-TV/Wizzy-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
